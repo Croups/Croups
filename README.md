@@ -1,21 +1,21 @@
 <!-- ===== HERO ===== -->
 <h1 align="center">Hi 👋, I'm Enes Koşar</h1>
 <p align="center">
-  <b>AI Engineer</b> • <b>Applied AI MSc</b> • <b>Building Production AI Systems</b>
+  <b>AI Engineer</b> • <b>Applied AI MSc</b> • <b>Building Production Ready AI Systems</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Croups&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/enes-koşar//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:eneskosar19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://YOUR_WEBSITE" target="_blank">
+  <a href="https://(https://www.eneskosar.com/)" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=vercel" />
   </a>
 </p>
