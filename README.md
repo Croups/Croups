@@ -1,63 +1,37 @@
 <h1 align="center">Enes Koşar</h1>
 
 <p align="center">
-AI Engineer • Applied AI MSc • Building Production AI Systems
-</p>
-
-<p align="center">
-🇳🇱 Based in the Netherlands • Open to Freelance AI Projects
+AI Engineer • Applied AI MSc • Production AI Systems
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🚀 About Me
 
-- LLM-powered document intelligence systems  
-- OCR + structured data extraction pipelines  
-- Agentic AI architectures  
-- Real-time monitoring & scoring systems  
-- AI MVPs for startups  
-
-I focus on building **deployable AI products**, not notebooks.
+Full-stack AI engineer focused on automation, LLM systems, and scalable backend architectures.  
+Currently building production-grade AI pipelines.
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-**AI & ML**  
-LLMs • RAG • Vector Databases • Transformers • OCR  
-
-**Backend & Infra**  
-FastAPI • Docker • Redis • PostgreSQL • MongoDB • Celery  
-
-**Cloud & DevOps**  
-Azure • GitHub Actions • Linux • Vercel  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+<p>
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge&logo=redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/LLM-Systems-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Currently
+## 🧩 Projects
 
-- Scaling AI pipelines for production  
-- Designing multi-agent architectures  
-- Building AI-first backend systems  
+### 🤖 AI Document Extraction
+LLM + OCR powered structured data extraction pipeline.
 
----
-
-## 📫 Contact
-
-LinkedIn: https://linkedin.com/in/YOUR_LINK  
-Email: your@email.com  
+### 📊 Real-Time Scoring System
+Event-driven AI monitoring architecture with Redis & Celery.
 
 ---
