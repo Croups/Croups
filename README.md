@@ -59,40 +59,29 @@
 
 <p>
   <img src="https://img.shields.io/badge/PydanticAI-Agent%20Framework-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Redis%20Streams-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker%20-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PaddleOCR-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PaddleOCR--VLM-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyMuPDF-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PDFPlumber-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/pdfminer-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unstructured-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docling-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Qwen2.5--VLM-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qwen--VLM-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAGAS-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Logfire-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Versioning-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Structured%20Output-black?style=for-the-badge"/>
 </p>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Croups&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croups&layout=compact" height="160" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Croups" height="170" />
