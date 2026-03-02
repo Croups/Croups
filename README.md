@@ -8,31 +8,38 @@
   <img src="https://komarev.com/ghpvc/?username=Croups&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<!-- ===== SOCIAL BUTTONS ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/enes-koşar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:eneskosar19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  <a href="https://www.kaggle.com/eneskosar19" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://https://www.eneskosar.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=vercel" />
+  <a href="https://medium.com/@eneskosar19" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@eneskosarAI" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.eneskosar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Personal%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ===== ABOUT (2nd screenshot style bullets) ===== -->
 ## 👨‍💻 About
 
-- 🔭 I build **LLM pipelines**, **RAG systems**, and **agentic architectures** for real products  
-- 🧠 Focus: **Production AI**, **automation**, **scalable backend**, **real-time scoring**  
-- ✍️ Writing: Technical notes & product learnings (optional link)  
-- 📫 Reach me: **YOUR_EMAIL**
+- 🔭 I build **LLM Pipelines**, **Agentic Systems**, **AI Automations**, and **RAG Systems**
+- 🧠 Focused on **readable, maintainable code** and delivering the **best practical solution**
+- 📫 Reach me: **eneskosar19@gmail.com**
 
 ---
 
-<!-- ===== TECH STACK (1st screenshot vibe: badges) ===== -->
 ## 🧰 Tech Stack
 
 <p>
@@ -46,59 +53,29 @@
   <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<!-- ===== ICON ROW (2nd screenshot style: big tool icons) ===== -->
 ### Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,docker,redis,postgres,mongodb,linux,githubactions,azure&perline=11" />
 </p>
 
----
-
-<!-- ===== PROJECTS (1st screenshot style: clean list + bullets) ===== -->
-## 🧩 Projects
-
-### 🔍 AI Document Extraction System
-LLM + OCR based document parsing pipeline for invoices / packing lists.
-- Structured data extraction (JSON output)
-- Async processing (queues/workers)
-- Production-focused validation & monitoring
-
-### 🤖 Agentic Monitoring & Scoring
-Real-time event processing architecture for scoring entities over time.
-- Stream/queue based ingestion
-- Rule + model hybrid scoring
-- Dashboard-ready metrics
-
-### 📊 Signal / Scoring Framework (Trading / Risk)
-Automated scoring system with risk & momentum-style features.
-- Feature pipeline
-- Scoring + thresholds
-- Backtest-ready structure
-
-> Pin these repos on your profile for maximum impact (top 4).
-
----
-
-<!-- ===== STATS (2nd screenshot vibe) ===== -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Croups&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croups&layout=compact" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Croups" height="170" />
 </p>
 
 ---
 
-<!-- ===== CTA ===== -->
 ## 🤝 Open to
 
 - Freelance AI Engineering (NL / Remote)
 - AI Product MVPs
-- LLM System Design (RAG, agents, extraction)
-- Backend + AI integration
+- LLM System Design
+- Backend + AI Integration
 
-If you’re building something serious in AI, let’s talk.
+If you're building something serious in AI, let's talk.
