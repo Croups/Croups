@@ -40,17 +40,80 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 AI / Agentic Core
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-Queue/Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Web-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PydanticAI-Agent%20Framework-E92063?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔍 Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Production
+
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event--Driven-Architecture-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄 Data Layer
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge"/>
+</p>
+
+---
+
+## 🐳 Infra
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 📄 Document AI
+
+<p>
+  <img src="https://img.shields.io/badge/PaddleOCR-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PaddleOCR--VLM-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PDFPlumber-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unstructured-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docling-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qwen2.5--VLM-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Evaluation & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/RAGAS-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logfire-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tracing-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Versioning-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Structured%20Output-000000?style=for-the-badge"/>
 </p>
 
 ### Languages & Tools
