@@ -1,5 +1,5 @@
 <!-- ===== HERO ===== -->
-<h1 align="center">Hi 👋, I'm Enes Koşar</h1>
+<h1 align="center">Hello there, I'm Enes</h1>
 <p align="center">
   <b>AI Engineer</b> • <b>Applied AI MSc</b> • <b>Building Production Ready AI Systems</b>
 </p>
